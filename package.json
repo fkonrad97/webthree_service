@@ -1,0 +1,27 @@
+{
+  "name": "webthree_service",
+  "version": "1.0.0",
+  "description": "This microservice deals NFT related requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkonrad97/webthree_service.git"
+  },
+  "keywords": [],
+  "author": "Konrad Farkas <fkonrad97@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkonrad97/webthree_service/issues"
+  },
+  "homepage": "https://github.com/fkonrad97/webthree_service#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
