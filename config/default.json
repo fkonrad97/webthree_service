@@ -1,0 +1,4 @@
+{
+    "db": "mongodb://localhost/dpath",
+    "mqRabbit": "amqp://localhost:5672"
+}
